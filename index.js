@@ -1,7 +1,7 @@
 // index.js
 const express = require("express");
 const servicos = require('./servicos/servicos');
-const colecaoUf = require('./Dados/dados');
+const colecaoUf = require('./dados/dados');
 
 const app = express();
 

@@ -1,5 +1,5 @@
 // servicos.js
-const colecaoUf = require("../Dados/dados");
+const colecaoUf = require("../dados/dados");
 
 const buscarUfs = () => {
   return colecaoUf;
